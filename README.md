@@ -47,5 +47,5 @@
 
 ## What app will look like after the photo upload
 
-![Screenshot_1](paste here ?raw=true)
+![Screenshot_1](https://github.com/Flux99/photos/blob/main/screenshot/Screenshot%20from%202021-05-10%2002-02-02.png?raw=true)
 
